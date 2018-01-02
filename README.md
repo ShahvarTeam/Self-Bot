@@ -13,13 +13,15 @@
 # wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz;tar zxpf luarocks-2.2.2.tar.gz;cd luarocks-2.2.2 && ./configure; sudo make bootstrap;sudo luarocks install luasocket;sudo luarocks install luasec;sudo luarocks install redis-lua;sudo luarocks install lua-term;sudo luarocks install serpent;sudo luarocks install dkjson;sudo luarocks install lanes;sudo luarocks install Lua-cURL
 ```
 # سپس دستور زیر را بزنید
- cd
+```sh
+cd
  حال سورس را کلون کنید
  git clone https://github.com/ShahvarTeam/Self-Bot.git
-
-# سورس کلون ک شد به مسیر زیر برید و ایدی خودتون رو جایگزین کنید
-
+```
+ سورس کلون ک شد به مسیر زیر برید و ایدی خودتون رو جایگزین کنید
+```sh
  Self-Bot/bot/bot.lua    line 118
+ ```
  سیو کنید و خارج بشید کد های زیر را جهت نصب وارد کنین
 ```sh
 cd Self-Bot
