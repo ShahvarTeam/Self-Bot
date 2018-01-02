@@ -1,5 +1,5 @@
 # Self-Bot
-# با عرض سلام خدمت دوستان
+** با عرض سلام خدمت دوستان
 اینم قول من به شما سورس سلف باتی که خودم ادیت کردم 
 سورس اصلی سلف بیوند هست که من دستورات رو دوزبانه کردم و یه سری تغییرات دادم
 امیدوارم خوشتون بیاد  
@@ -13,21 +13,21 @@
 # wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz;tar zxpf luarocks-2.2.2.tar.gz;cd luarocks-2.2.2 && ./configure; sudo make bootstrap;sudo luarocks install luasocket;sudo luarocks install luasec;sudo luarocks install redis-lua;sudo luarocks install lua-term;sudo luarocks install serpent;sudo luarocks install dkjson;sudo luarocks install lanes;sudo luarocks install Lua-cURL
 ```
 # سپس دستور زیر را بزنید
-# cd
-# حال سورس را کلون کنید
-# git clone https://github.com/ShahvarTeam/Self-Bot.git
+ cd
+ حال سورس را کلون کنید
+ git clone https://github.com/ShahvarTeam/Self-Bot.git
 
 # سورس کلون ک شد به مسیر زیر برید و ایدی خودتون رو جایگزین کنید
 
-# Self-Bot/bot/bot.lua    line 118
-# سیو کنید و خارج بشید کد های زیر را جهت نصب وارد کنین
+ Self-Bot/bot/bot.lua    line 118
+ سیو کنید و خارج بشید کد های زیر را جهت نصب وارد کنین
 ```sh
 cd Self-Bot
 chmod +x self.sh
 ./self.sh install
 ./self.sh
 ```
-# بعد از این مرحله از شما شماره و کد میخواد بزنید و تمام
+ بعد از این مرحله از شما شماره و کد میخواد بزنید و تمام
 # خب بریم واس اتو لانج
 ```sh
 killall screen
@@ -35,8 +35,9 @@ killall bash
 tmux
 ./self.sh
 ```
-# موفق و پیروز باشید
-# ستاره یادتون نره
+ موفق و پیروز باشید
+ ستاره یادتون نره
 
-[Majholboy](https://github.com/MajhoIboy) ([Telegram](https://telegram.me/MahgoIboy))
+[Majholboy](https://github.com/MajhoIboy) ([Telegram](https://telegram.me/MajhoIboy))
+----------------------
 [@ShahvarTeam](https://telegram.me/shahvarteam)
