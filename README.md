@@ -31,6 +31,7 @@ chmod +x self.sh
 ```
  بعد از این مرحله از شما شماره و کد میخواد بزنید و تمام
 # خب بریم واس اتو لانج
+از سرور خارج بشید و دوباره باز کنید دستورات زیر رو بزنید.
 ```sh
 killall screen
 killall bash
@@ -43,3 +44,6 @@ tmux
 [Majholboy](https://github.com/MajhoIboy) ([Telegram](https://telegram.me/MajhoIboy))
 ----------------------
 [@ShahvarTeam](https://telegram.me/shahvarteam)
+
+# با تشکر از تیم بیوند
+[@BeyondTeam](https://telegram.me/BeyondTeam)
