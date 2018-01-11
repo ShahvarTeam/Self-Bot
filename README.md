@@ -34,9 +34,7 @@ chmod +x self.sh
 از سرور خارج بشید و دوباره باز کنید دستورات زیر رو بزنید.
 ```sh
 killall screen
-killall bash
-tmux
-./self.sh
+cd Self-Bot && chamod =x autobd.sh && chamod 777 autobd.sh && screen ./autobd.sh
 ```
  موفق و پیروز باشید
  ستاره یادتون نره
